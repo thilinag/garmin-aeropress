@@ -1,0 +1,21 @@
+<layout id="MainLayout">
+    <label id="task" text="Ready?" x="center" y="20%"
+        justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_SMALL" />
+    <label id="timer"
+        text="2:30" x="center" y="center" font="Gfx.FONT_NUMBER_THAI_HOT"
+        justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <label id="step" text="" x="center" y="80%"
+        font="Gfx.FONT_SMALL"
+        justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <label id="complete"
+        text="Enjoy!" x="center" y="center" font="Gfx.FONT_SYSTEM_LARGE"
+        justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <bitmap id="select"
+        x="82%"
+        y="22%"
+        filename="../drawables/start2.png" />
+    <bitmap id="nextpage"
+        x="6%"
+        y="61%"
+        filename="../drawables/reset2.png" />
+</layout>

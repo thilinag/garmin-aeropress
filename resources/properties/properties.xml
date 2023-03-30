@@ -1,0 +1,6 @@
+<properties>
+    <property id="appVersion" type="string">1.0.1</property>
+    <property id="brewTime" type="number">110</property>
+    <property id="stirTime" type="number">10</property>
+    <property id="letSitTime" type="number">30</property>
+</properties>

@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName">AeroPress</string>
+    <string id="timeSeparator">:</string>
+    <string id="timePickerTitle">Pick a time of day</string>
+    <string id="morning">AM</string>
+    <string id="afternoon">PM</string>
+</strings>
